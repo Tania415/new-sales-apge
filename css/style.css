@@ -238,7 +238,9 @@ ul.feature-list li:before {
 
 
 @media only screen and (min-width: 360px) {
-
+    section.hero {
+	    height: 100vh;
+	}
     .navbar .logo img {
         width: 150px;
         vertical-align: middle;
