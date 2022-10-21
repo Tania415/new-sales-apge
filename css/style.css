@@ -27,7 +27,7 @@ ul {
  
  .navbar .logo img {
     width: 250px;
-	vertical-align: middle;
+    vertical-align: middle;
     padding-left: 50%;
    
 
@@ -51,19 +51,10 @@ section {
     color: #fff;
 }
 
-/*.hero {
-    display: flex;
-    background-color: #02a023;
-    background-image: linear-gradient(65deg, #006515 0%, #093312 100%) ;
-    text-align: center;
-    height: 80vh;
-
-}*/
-
 .hero {
     display: flex;
     background-color: #008300b7;
-    background-image: url("../img/bg-4.jpg");
+    background-image: url("../img/hero-bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
